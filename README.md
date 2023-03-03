@@ -4,5 +4,8 @@
 ### codeclimate status:
 [![Maintainability](https://api.codeclimate.com/v1/badges/7089e38bbb7351ae0c77/maintainability)](https://codeclimate.com/github/Andrey235944/python-project-49/maintainability)
 
-###asciinema:
+###asciinema even:
 https://asciinema.org/a/heR1vG047Qeh4f4Sm9UAklTnu
+
+###asciinema calc:
+https://asciinema.org/a/9rUqcr6qjLcXOgPExxGN68L5I
