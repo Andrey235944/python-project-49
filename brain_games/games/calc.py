@@ -10,10 +10,10 @@ def make_question_and_correct_answer():
     operand_1 = randint(min_number, max_number)
     operand_2 = randint(min_number, max_number)
     operation, operator = choice([
-        (add, '+')
-        (mul, '*')
-        (sub, '-')
+        (add, '+'),
+        (mul, '*'),
+        (sub, '-'),
     ])
-    correct_answer = operation(operand_1, operand_2)
+    correct_answer = str(operation(operand_1, operand_2))
     question = f"{operand_1} {operator} {operand_2}"
     return question, correct_answer
