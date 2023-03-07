@@ -1,7 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Andrey235944/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/Andrey235944/python-project-49/actions)
 
-[![Actions Status](https://github.com/Andrey235944/python-project-49/workflows/linter-check/badge.svg)](https://github.com/Andrey235944/python-project-49/actions)
+[![workflow](https://github.com/Andrey235944/python-project-49/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/Andrey235944/python-project-49/actions/workflows/github-actions-demo.yml
 
 
 ### codeclimate status:
